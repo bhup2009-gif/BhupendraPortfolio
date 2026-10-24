@@ -60,3 +60,34 @@ try {
 document.querySelector('.back-top').addEventListener('click', () => {
   window.scrollTo({ top: 0, behavior: scrollBehavior() });
 });
+
+// Small gestures for the coffee-time experiments.
+(() => {
+  const universe = document.querySelector('.coffee-universe');
+  if (!universe) return;
+  const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+  universe.querySelectorAll('article.creation').forEach(card => {
+    card.addEventListener('pointermove', event => {
+      if (reducedMotion.matches || event.pointerType !== 'mouse') return;
+      const rect = card.getBoundingClientRect();
+      card.style.setProperty('--tilt-y', `${((event.clientX - rect.left) / rect.width - .5) * 5}deg`);
+      card.style.setProperty('--tilt-x', `${((event.clientY - rect.top) / rect.height - .5) * -5}deg`);
+    });
+    card.addEventListener('pointerleave', () => {
+      card.style.removeProperty('--tilt-x');
+      card.style.removeProperty('--tilt-y');
+    });
+  });
+  let resetBrew;
+  universe.querySelector('.coffee-brew')?.addEventListener('click', () => {
+    clearTimeout(resetBrew);
+    universe.classList.remove('is-brewing');
+    void universe.offsetWidth;
+    universe.classList.add('is-brewing');
+    universe.querySelector('.brew-status').textContent = 'Freshly brewed. What if…?';
+    resetBrew = setTimeout(() => {
+      universe.classList.remove('is-brewing');
+      universe.querySelector('.brew-status').textContent = 'A little caffeine. A lot of curiosity.';
+    }, 2400);
+  });
+})();
