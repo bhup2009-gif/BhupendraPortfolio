@@ -80,3 +80,9 @@ After committing, check the **pages-build-deployment** run under **Actions**. Ch
 ## Ownership
 
 Portfolio content and project visuals belong to their respective owners. Company names and logos are used to identify the work presented. No reuse license is granted by this README.
+
+## Portfolio AI Concierge
+
+A small bottom-right portfolio guide is integrated across the site. It supports sourced text chat, optional browser voice input/output, known-route navigation and section highlighting. It loads its knowledge and full UI only when opened and never starts the microphone or speech automatically. The free prototype uses 23 reviewed local knowledge records, not a paid model or API key.
+
+See [setup, architecture, privacy, browser limitations and tests](docs/portfolio-ai-concierge.md).
