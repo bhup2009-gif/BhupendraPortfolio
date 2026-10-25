@@ -1,0 +1,437 @@
+{
+  "version": 1,
+  "reviewedAt": "2026-10-26",
+  "owner": {
+    "name": "Bhupendra Singh Rathore",
+    "email": "bhup2009@gmail.com",
+    "location": "Indore, India"
+  },
+  "disclosure": "Answers are curated from the published portfolio; not a general-purpose LLM. Professional claims are portfolio-reported.",
+  "documents": {
+    "about-me.html": {
+      "sha256": "95b6a70fa53a44b515773c94185edd8ae5e55a94f473e60ed9984327c83e2a48",
+      "title": "About — Bhupendra Singh Rathore"
+    },
+    "index.html": {
+      "sha256": "992ceb3c391afd07db53c2b5ecbb163cdd331fb3d7f84da6c9b04623a62e594c",
+      "title": "Product Designer — Bhupendra Singh Rathore"
+    },
+    "projects-alfred.html": {
+      "sha256": "545e1a0d19ee6f20615ddfd7b3700b3669d6456afea050a0de54674968a33048",
+      "title": "Alfred Copy Trading App — Bhupendra Singh Rathore"
+    },
+    "projects-beta-24.html": {
+      "sha256": "4319ec44cf7d1e6d6befac51c43d07623cf1f7311a20b4b782326f4b2383856c",
+      "title": "Beta 24 — Bhupendra Singh Rathore"
+    },
+    "projects-enterprise.html": {
+      "sha256": "11cec37c43a072f4eb2d48b34f7ab6a67872368be1488f64e5bc4e9d084b91e5",
+      "title": "Enterprise experiences — Bhupendra Singh Rathore"
+    },
+    "projects-family-tree.html": {
+      "sha256": "0e3ab8307edd800abecd7c5ba433429098f4af7f7f48068858fa68609b26131d",
+      "title": "Family Tree — Bhupendra Singh Rathore"
+    },
+    "projects-kyvos.html": {
+      "sha256": "348c956a670b4a2fca910ebfa36c8cde3e2bd50bd7974345ae8cc6483d85f060",
+      "title": "Kyvos — Connected Enterprise Brand Experience | Case Study"
+    },
+    "projects-meditation.html": {
+      "sha256": "4f4cfb473236532f349b4727d481173249f03d42d3512038bd7f178447ed560d",
+      "title": "High Vibe Affirmations — Bhupendra Singh Rathore"
+    },
+    "projects-self-custody-vault.html": {
+      "sha256": "b724827fcf9c5480738cc12ee814b15401c34158a6585efe818a3fb788a91163",
+      "title": "Ethos Self-Custody Vault — Bhupendra Singh Rathore"
+    },
+    "projects-smart-home.html": {
+      "sha256": "dc854d1aa1ead7a92a613ce45d4925c96c841a60ff576ff5b1484f20e51b24c7",
+      "title": "Smart Home — Bhupendra Singh Rathore"
+    },
+    "projects-talkbar.html": {
+      "sha256": "4982a9082a98745623917bfbcfd7fbd2b198f568199fc06aacf1c30b8e4df448",
+      "title": "Talkbar — Bhupendra Singh Rathore"
+    },
+    "projects-txt2create.html": {
+      "sha256": "05a6f2f036971f0dcb8416410a2d7cd6334dc636080b3f215e9d48639a4c99b6",
+      "title": "TXT2Create — Bhupendra Singh Rathore"
+    }
+  },
+  "records": [
+    {
+      "id": "about",
+      "title": "About Bhupendra",
+      "answer": "Bhupendra Singh Rathore is a senior UI/UX and product designer based in Indore, India. His published portfolio describes 9+ years across enterprise SaaS, consumer products, AI-powered experiences and brand systems. He combines user research, interface craft and close collaboration with product and engineering teams.",
+      "actions": ["about", "experience"],
+      "sources": ["about-me.html"],
+      "aliases": [
+        "who are you",
+        "introduce",
+        "about bhupendra",
+        "background",
+        "bio",
+        "location",
+        "where are you based"
+      ],
+      "evidence": [
+        "I’m Bhupendra Singh Rathore, a senior UI/UX and product designer based in Indore, India."
+      ]
+    },
+    {
+      "id": "experience",
+      "title": "Professional experience",
+      "answer": "His portfolio lists 9+ years in design. He is listed at Impetus Technologies as Assistant Manager, Design L1 / Senior Product Designer (Mar 2025–Present). Before that: Deqode Software Solutions (Apr 2021–Mar 2025), Orcomm Advertising (Apr 2018–Apr 2021) and Srijan Creative Cell (Jul 2016–Apr 2018). His work spans enterprise SaaS, AI, fintech, consumer journeys and brand systems.",
+      "actions": ["experience", "resume"],
+      "sources": ["about-me.html"],
+      "aliases": [
+        "experience",
+        "career",
+        "work history",
+        "employment",
+        "previous companies",
+        "years of experience",
+        "resume",
+        "cv",
+        "current role"
+      ],
+      "evidence": [
+        "Impetus Technologies",
+        "Mar 2025 — Present",
+        "Deqode Software Solutions",
+        "Apr 2021 — Mar 2025"
+      ]
+    },
+    {
+      "id": "kyvos",
+      "title": "Featured UX case study",
+      "answer": "I recommend starting with Kyvos because it is the portfolio’s featured, detailed enterprise UX case study. It covers website UX, Semantic Layer communication, reusable design patterns, brand guidelines, campaigns and event experiences across 2025–2026. It also documents cross-functional leadership. The case study explicitly says conversion, engagement and CTR uplift have not been independently established.",
+      "actions": ["kyvos", "leadership"],
+      "sources": ["projects-kyvos.html", "index.html"],
+      "aliases": [
+        "kyvos",
+        "best ux case study",
+        "best case study",
+        "featured case study",
+        "strongest case study",
+        "enterprise ux",
+        "case studies",
+        "show your work"
+      ],
+      "evidence": [
+        "UI/UX & Brand Experience Designer · Cross-functional Design Leadership",
+        "Selected work across 2025–2026"
+      ]
+    },
+    {
+      "id": "leadership",
+      "title": "Design leadership",
+      "answer": "The clearest leadership example is Kyvos: Bhupendra describes aligning product, marketing, engineering, event teams and production vendors; translating briefs into design directions; coordinating reviews; resolving trade-offs; and maintaining quality through delivery. His About page also describes supporting junior designers with feedback at Deqode. TXT2Create adds an end-to-end product delivery example.",
+      "actions": ["leadership", "txt2create", "experience"],
+      "sources": ["projects-kyvos.html", "about-me.html"],
+      "aliases": [
+        "leadership",
+        "lead",
+        "team",
+        "mentoring",
+        "mentorship",
+        "stakeholder",
+        "cross functional",
+        "management",
+        "manager"
+      ],
+      "evidence": [
+        "Cross-Functional Design Leadership",
+        "supported junior designers through feedback"
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI experience",
+      "answer": "His AI work includes TXT2Create, which he took from concept through research, UX flows, UI, prototypes, development coordination, testing and launch; and Talkbar, an Impetus conversational assistant for website and ecommerce exploration. His portfolio also lists completion of IIT Delhi’s AI-led UX and CX Innovation for Leadership programme in 2026, plus independent AI-assisted tools in the AI lab.",
+      "actions": ["txt2create", "talkbar", "education", "ai"],
+      "sources": [
+        "projects-txt2create.html",
+        "projects-talkbar.html",
+        "about-me.html"
+      ],
+      "aliases": [
+        "artificial intelligence",
+        "ai experience",
+        "experience with ai",
+        "ai work",
+        "ai projects",
+        "generative ai",
+        "llm",
+        "ai tools",
+        "vibe coding"
+      ],
+      "evidence": [
+        "I handled UX research, user flows, UI design, and prototypes",
+        "AI-led UX and CX Innovation"
+      ]
+    },
+    {
+      "id": "txt2create",
+      "title": "TXT2Create",
+      "answer": "TXT2Create is a 0-to-1 AI product that Bhupendra says he personally took from idea to execution. His contribution covered UX research, user flows, UI design and prototypes, followed by development coordination, testing and launch. The published case study focuses on end-to-end delivery; it does not provide user counts, revenue or independently verified performance metrics.",
+      "actions": ["txt2create"],
+      "sources": ["projects-txt2create.html"],
+      "aliases": [
+        "txt2create",
+        "txt to create",
+        "text to create",
+        "text2create",
+        "txt two create",
+        "txt 2 create",
+        "zero to one",
+        "0 to 1"
+      ],
+      "evidence": [
+        "A 0-to-1 AI product that I personally took from idea to execution.",
+        "development coordination, testing, and launch"
+      ]
+    },
+    {
+      "id": "talkbar",
+      "title": "Talkbar",
+      "answer": "Talkbar is an Impetus AI assistant for website and ecommerce experiences. Its portfolio page describes helping visitors find answers and discover products through conversation, with website/documentation/catalogue content, conversation analytics and an embed-based setup. The published page describes the product experience; it does not establish that Bhupendra alone built the product or its AI model.",
+      "actions": ["talkbar"],
+      "sources": ["projects-talkbar.html"],
+      "aliases": [
+        "talkbar",
+        "talk bar",
+        "conversational ai",
+        "website assistant",
+        "chatbot"
+      ],
+      "evidence": [
+        "Talkbar is an Impetus product: an AI assistant for websites and ecommerce experiences."
+      ]
+    },
+    {
+      "id": "skills",
+      "title": "Skills & tools",
+      "answer": "His published toolkit includes user research, information architecture, UX flows, wireframing, prototyping, interaction and visual design, usability testing, design systems, accessibility, responsive UI and cross-functional reviews. Tools listed include Figma, FigJam, Adobe CC, Framer, HTML/CSS, Microsoft Clarity, Hotjar / FullStory, Cursor, Claude Code, ChatGPT, Figma AI and Replit.",
+      "actions": ["skills"],
+      "sources": ["about-me.html"],
+      "aliases": [
+        "skills",
+        "toolkit",
+        "design tools",
+        "tools",
+        "figma",
+        "design system",
+        "accessibility",
+        "prototyping",
+        "usability",
+        "research process",
+        "design process"
+      ],
+      "evidence": [
+        "User Research",
+        "Information Architecture",
+        "Figma · FigJam · Adobe CC · Framer · HTML/CSS"
+      ]
+    },
+    {
+      "id": "education",
+      "title": "Education & advanced learning",
+      "answer": "The About page lists a B.Com. from DAVV University, additional learning in PGDCA, WCAG 2.1, Design Thinking and Behavioral Design, and completion in 2026 of IIT Delhi’s AI-led UX and CX Innovation for Leadership programme. The portfolio includes a certificate viewer on the homepage.",
+      "actions": ["education", "about"],
+      "sources": ["about-me.html", "index.html"],
+      "aliases": [
+        "education",
+        "qualification",
+        "iit",
+        "iit delhi",
+        "certificate",
+        "certification",
+        "learning",
+        "degree"
+      ],
+      "evidence": ["B.Com. · DAVV University", "Programme completed · 2026"]
+    },
+    {
+      "id": "contact",
+      "title": "Contact Bhupendra",
+      "answer": "You can contact Bhupendra at bhup2009@gmail.com. His public LinkedIn profile and downloadable resume are linked in the portfolio header and footer. I can take you to the contact section or open the published resume; I won’t send messages on your behalf.",
+      "actions": ["contact", "resume"],
+      "sources": ["about-me.html", "index.html"],
+      "aliases": [
+        "contact",
+        "email",
+        "get in touch",
+        "reach you",
+        "hire",
+        "linkedin",
+        "connect",
+        "interview"
+      ],
+      "evidence": [
+        "bhup2009@gmail.com",
+        "https://www.linkedin.com/in/bhupendra-rathore-b4b64588/"
+      ]
+    },
+    {
+      "id": "cafeos",
+      "title": "CaféOS",
+      "answer": "CaféOS is presented in the portfolio as a café POS experience designed and built from idea to a working local v1, covering ordering, kitchen handoffs and billing. The homepage links to its external case study. I can highlight that existing card here; opening its external destination is your choice.",
+      "actions": ["cafeos"],
+      "sources": ["index.html"],
+      "aliases": [
+        "cafeos",
+        "cafe os",
+        "caféos",
+        "cafe pos",
+        "restaurant pos",
+        "cafe application"
+      ],
+      "evidence": [
+        "CaféOS",
+        "Designing a calmer café rush with a POS experience built from 0 to 1."
+      ]
+    },
+    {
+      "id": "ethos",
+      "title": "Ethos Self-Custody Vault",
+      "answer": "Ethos Self-Custody Vault is a self-custody crypto wallet experience, rather than an exchange. The case study addresses a simpler entry point, clearer asset information, educational support and confidence around managing holdings. The page labels its outcome percentages as figures reported in the original case study, not independent measurements.",
+      "actions": ["ethos"],
+      "sources": ["projects-self-custody-vault.html"],
+      "aliases": [
+        "ethos",
+        "self custody",
+        "crypto wallet",
+        "vault",
+        "fintech",
+        "web3"
+      ],
+      "evidence": ["Ethos is a wallet, rather than an exchange or protocol."]
+    },
+    {
+      "id": "alfred",
+      "title": "Alfred Copy Trading App",
+      "answer": "Alfred is a decentralized copy-trading application. The portfolio describes simplifying navigation, onboarding and personalisation. Its page preserves conflicting reported retention percentages in their original context, so I would not present either figure as an independently verified result.",
+      "actions": ["alfred"],
+      "sources": ["projects-alfred.html"],
+      "aliases": ["alfred", "copy trading", "investment app", "trading"],
+      "evidence": [
+        "The Results text reports a 25% increase in retention, while the page’s headline metric displays 55%"
+      ]
+    },
+    {
+      "id": "beta",
+      "title": "Beta 24",
+      "answer": "Beta 24 is a ride-booking mobile application designed from scratch. Bhupendra describes handling the end-to-end product design, from the initial concept into the mobile experience. The published page does not provide detailed research findings or measured business outcomes.",
+      "actions": ["beta"],
+      "sources": ["projects-beta-24.html"],
+      "aliases": ["beta 24", "beta24", "ride booking", "mobility", "taxi"],
+      "evidence": ["A ride-booking mobile application designed from scratch."]
+    },
+    {
+      "id": "family",
+      "title": "Family Tree",
+      "answer": "Family Tree is a mobile application designed from scratch around family relationships. The portfolio describes shaping the experience around how people understand and engage with those relationships.",
+      "actions": ["family"],
+      "sources": ["projects-family-tree.html"],
+      "aliases": ["family tree", "family relationships", "genealogy"],
+      "evidence": ["A family-tree mobile application designed from scratch"]
+    },
+    {
+      "id": "smartHome",
+      "title": "Smart Home",
+      "answer": "Smart Home is a connected-home application concept that brings control of home devices and systems into one mobile interface. Its public portfolio page is a concise project overview.",
+      "actions": ["smartHome"],
+      "sources": ["projects-smart-home.html"],
+      "aliases": ["smart home", "connected home", "iot", "home devices"],
+      "evidence": [
+        "A smart-home application concept that brings control of home devices and systems into a mobile interface."
+      ]
+    },
+    {
+      "id": "meditation",
+      "title": "High Vibe Affirmations",
+      "answer": "High Vibe Affirmations is a meditation and affirmations application exploring a calmer wellness experience with a digital-kaleidoscope visual direction. The portfolio presents it as a visual exploration.",
+      "actions": ["meditation"],
+      "sources": ["projects-meditation.html"],
+      "aliases": ["meditation", "high vibe", "affirmations", "wellness"],
+      "evidence": ["A visual exploration of a calmer meditation experience."]
+    },
+    {
+      "id": "enterprise",
+      "title": "Enterprise experiences",
+      "answer": "At Impetus, Bhupendra describes work across Kyvos, Intellicus and Flow WFM initiatives. His contribution includes reusable UI patterns, responsive web experiences, brand-consistent digital components and review coordination with product, marketing, engineering and vendor teams.",
+      "actions": ["enterprise", "kyvos", "leadership"],
+      "sources": ["projects-enterprise.html"],
+      "aliases": [
+        "enterprise",
+        "saas",
+        "b2b",
+        "intellicus",
+        "flow wfm",
+        "analytics"
+      ],
+      "evidence": [
+        "My work at Impetus spans B2B analytics, AI, and enterprise SaaS, including Kyvos, Intellicus, and Flow WFM initiatives."
+      ]
+    },
+    {
+      "id": "htmlFigma",
+      "title": "HTML → Figma",
+      "answer": "HTML → Figma is an independent plugin Bhupendra built to convert HTML into Figma designs, connecting web content with the Figma canvas. The homepage presents it as one of his coffee-time creations.",
+      "actions": ["htmlFigma"],
+      "sources": ["index.html"],
+      "aliases": [
+        "html to figma",
+        "html figma",
+        "html into figma",
+        "figma plugin"
+      ],
+      "evidence": ["A plugin I built to convert HTML into Figma designs"]
+    },
+    {
+      "id": "expenses",
+      "title": "Expense Tracker",
+      "answer": "Expense Tracker is a complete expense-tracking application Bhupendra designed and built to bring everyday spending into one place. It is listed among his independent tools on the homepage.",
+      "actions": ["expenses"],
+      "sources": ["index.html"],
+      "aliases": ["expense tracker", "spending tracker", "expenses app"],
+      "evidence": ["A complete expense-tracking application"]
+    },
+    {
+      "id": "contentAnalysis",
+      "title": "Content Analysis",
+      "answer": "Content Analysis is a tool Bhupendra created to help QA teams and content writers analyse content during their review process. The published homepage describes this purpose but does not provide benchmark results.",
+      "actions": ["contentAnalysis"],
+      "sources": ["index.html"],
+      "aliases": ["content analysis", "qa writing", "content review tool"],
+      "evidence": [
+        "A tool I created to help QA teams and content writers analyze content"
+      ]
+    },
+    {
+      "id": "designAudit",
+      "title": "Design Audit",
+      "answer": "Design Audit is a tool Bhupendra created for designers to audit their work and get feedback on designs and individual screens. It is presented as an independent creation in his AI lab.",
+      "actions": ["designAudit"],
+      "sources": ["index.html"],
+      "aliases": ["design audit", "audit tool", "design feedback"],
+      "evidence": ["A tool for designers to audit their work and get feedback"]
+    },
+    {
+      "id": "webCapture",
+      "title": "Webpage Capture",
+      "answer": "Webpage Capture is a Chrome extension Bhupendra built to capture a full webpage as a PDF or PNG, from top to bottom. It is listed in the independent tools section of the portfolio.",
+      "actions": ["webCapture"],
+      "sources": ["index.html"],
+      "aliases": [
+        "webpage capture",
+        "web capture",
+        "chrome extension",
+        "full page capture"
+      ],
+      "evidence": [
+        "A Chrome extension I built to capture an entire webpage as a PDF or PNG"
+      ]
+    }
+  ]
+}
