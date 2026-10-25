@@ -10,6 +10,8 @@ A portfolio of UI/UX, product design, and brand experience work by Bhupendra Sin
 
 ## Featured work
 
+- **[CaféOS](https://cafeos-from-idea-to-launch.blitheelf66.chatgpt.site):** A café POS application designed and built from idea to a working local v1, covering ordering, kitchen handoffs, and billing.
+
 - **Kyvos:** Website UX, brand guidelines, marketing campaigns, and event experiences connected through a consistent enterprise brand.
 - **Talkbar:** A conversational AI assistant for website exploration.
 - **Ethos Self-Custody Vault:** A self-custody crypto wallet experience.
