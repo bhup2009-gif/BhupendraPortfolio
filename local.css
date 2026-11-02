@@ -107,3 +107,26 @@ body:has(.certificate-dialog[open]){overflow:hidden}
 @media(max-width:700px){.coffee-universe{grid-template-columns:1fr 1fr;grid-template-rows:auto;gap:16px;padding:0}.coffee-universe .creation{grid-area:auto;min-height:270px;padding:22px}.coffee-universe .coffee-card{grid-column:1/-1;grid-row:1;min-height:270px;padding:20px 0 35px}.coffee-universe .webpage-capture{grid-column:1/-1;min-height:230px}.idea-trails{display:none}.coffee-universe:before{inset:0;background:radial-gradient(ellipse at 50% 10%,#f3e8d789,transparent 45%)}}
 @media(max-width:460px){.coffee-universe{grid-template-columns:1fr}.coffee-universe .creation{min-height:255px}.coffee-universe .coffee-card{min-height:260px}}
 @media(prefers-reduced-motion:reduce){.coffee-universe *,.coffee-universe .creation{animation:none!important;transition:none!important;transform:none!important}.steam{opacity:.45}}
+
+/* Consistent case-study cards and updated portfolio introduction. */
+.home-gallery .minimal-hero{min-height:min(690px,85svh);padding-top:75px;padding-bottom:100px}
+.home-gallery .minimal-hero .hero-copy{max-width:1100px}
+.home-gallery .minimal-hero h1{max-width:1100px;font-size:clamp(38px,4.4vw,66px);margin-bottom:26px}
+.hero-outcome{display:block;font-size:clamp(20px,2.1vw,30px);letter-spacing:-.025em;line-height:1.4;margin-top:14px;color:#5f5f5f}
+.home-gallery .hero-specialties{font-size:13px;line-height:1.8;color:#737373;margin:17px auto 0;max-width:800px;text-wrap:balance}
+.home-gallery #case-studies{scroll-margin-top:32px;padding-top:30px}
+.home-gallery .project-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:42px 26px}
+.home-gallery .project-grid .project-card{display:flex;flex-direction:column}
+.home-gallery .project-grid .card-art{aspect-ratio:1.36;flex-shrink:0}
+.home-gallery .project-grid .type-art{min-height:0;padding:24px}
+.home-gallery .project-grid .art-center{font-size:clamp(25px,2.6vw,43px);letter-spacing:-1px;gap:12px}
+.home-gallery .project-grid .art-eyebrow{font-size:9px;letter-spacing:1px}
+.home-gallery .project-grid .art-bottom{font-size:11px}
+.home-gallery .project-grid .card-caption{margin-top:20px;flex:1}
+.home-gallery .project-grid .card-caption h3{font-size:22px}
+.home-gallery .project-grid .card-caption p{font-size:15px;line-height:1.6}
+.home-gallery .project-grid .tags{margin-top:18px}
+.type-art.kyvos-card{background:#f4eee6;color:#6d4937}
+.kyvos-card .art-center img{width:65%;max-width:210px;height:auto}
+@media(max-width:1000px){.home-gallery .project-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.home-gallery .minimal-hero{min-height:620px}.home-gallery .hero-specialties{max-width:570px}}
+@media(max-width:650px){.home-gallery .minimal-hero{min-height:620px;padding:65px 0 110px}.home-gallery .minimal-hero h1{font-size:40px;max-width:100%}.home-gallery .hero-outcome{font-size:21px;margin-top:18px}.home-gallery .hero-specialties{font-size:12px;max-width:330px}.home-gallery .project-grid{grid-template-columns:1fr;gap:38px}.home-gallery .project-grid .art-center{font-size:36px}.home-gallery #case-studies{padding-top:10px}}
