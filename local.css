@@ -130,3 +130,5 @@ body:has(.certificate-dialog[open]){overflow:hidden}
 .kyvos-card .art-center img{width:65%;max-width:210px;height:auto}
 @media(max-width:1000px){.home-gallery .project-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.home-gallery .minimal-hero{min-height:620px}.home-gallery .hero-specialties{max-width:570px}}
 @media(max-width:650px){.home-gallery .minimal-hero{min-height:620px;padding:65px 0 110px}.home-gallery .minimal-hero h1{font-size:40px;max-width:100%}.home-gallery .hero-outcome{font-size:21px;margin-top:18px}.home-gallery .hero-specialties{font-size:12px;max-width:330px}.home-gallery .project-grid{grid-template-columns:1fr;gap:38px}.home-gallery .project-grid .art-center{font-size:36px}.home-gallery #case-studies{padding-top:10px}}
+
+.home-gallery .minimal-hero .hero-description.hero-specialties{max-width:900px;font-size:17px;line-height:1.8;margin:0 auto;text-wrap:balance}@media(max-width:650px){.home-gallery .minimal-hero .hero-description.hero-specialties{font-size:15px;max-width:330px}}
